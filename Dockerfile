@@ -1,4 +1,6 @@
-# Sample Dockerfile
+# Plex for Windows
+# Unofficial build by Taylor Brown, for testing.
+# Pulls Windows Server, Plex, and makes them work together.
 
 # Indicates that the windowsservercore image will be used as the base image.
 FROM microsoft/windowsservercore
